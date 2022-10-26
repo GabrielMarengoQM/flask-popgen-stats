@@ -9,7 +9,7 @@ $pip install -r /path/to/requirements.txt
 
 Then use the following code to obtain the branch from the GitHub page that can run the website.
 
-$git clone https://github.com/GabrielMarengoQM/stats_webapp
+$git clone https://github.com/GabrielMarengoQM/stats_webapp.git
 
 $cd Front_End
 
