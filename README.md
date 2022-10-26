@@ -1,5 +1,5 @@
 # stats_webapp
-Flask/python built web app for visualising and comparing summary statistics across genomic regions between populations.
+Flask/python built web app for visualising and comparing summary statistics across genomic regions (currently only chromosome 22) between 5 world populations.
 
 Running the app
 
